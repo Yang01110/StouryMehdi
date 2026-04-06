@@ -1,5 +1,4 @@
 Technical Support Specialist | Full-Stack Developer | Cybersecurity
-
 ### 💻 Programming & Scripting
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -9,7 +8,7 @@ Technical Support Specialist | Full-Stack Developer | Cybersecurity
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🚀 Frontend, SEO & Web Architecture
+### 🚀 Frontend, SEO & Web Operations
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -19,6 +18,7 @@ Technical Support Specialist | Full-Stack Developer | Cybersecurity
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google-search-console&logoColor=white)
 ![SEO & Sitemapping](https://img.shields.io/badge/SEO_&_Sitemapping-34A853?style=for-the-badge&logo=google-search-console&logoColor=white)
+![SMTP Configuration](https://img.shields.io/badge/SMTP-Mail_Config-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### 🛡️ Systems, Cloud & Security
 ![Monitoring](https://img.shields.io/badge/Monitoring-Real--Time-success?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -26,6 +26,7 @@ Technical Support Specialist | Full-Stack Developer | Cybersecurity
 ![20i](https://img.shields.io/badge/20i-Cloud_Hosting-00AEEF?style=for-the-badge&logo=icloud&logoColor=white)
 ![Cloudways](https://img.shields.io/badge/Cloudways-2C303E?style=for-the-badge&logo=cloudways&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white)
@@ -48,6 +49,7 @@ Technical Support Specialist | Full-Stack Developer | Cybersecurity
 ### 🛠️ Management & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
