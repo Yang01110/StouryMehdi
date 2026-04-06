@@ -1,4 +1,7 @@
-Technical Support Specialist | Full-Stack Developer | Cybersecurity
+Technical Support Specialist | Developer | Cybersecurity
+
+---
+
 ### 💻 Programming & Scripting
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -8,24 +11,33 @@ Technical Support Specialist | Full-Stack Developer | Cybersecurity
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🚀 Frontend, SEO & Web Operations
+### 🚀 Frontend, Testing & Web Architecture
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![DOM](https://img.shields.io/badge/DOM_Manipulation-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google-search-console&logoColor=white)
 ![SEO & Sitemapping](https://img.shields.io/badge/SEO_&_Sitemapping-34A853?style=for-the-badge&logo=google-search-console&logoColor=white)
-![SMTP Configuration](https://img.shields.io/badge/SMTP-Mail_Config-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-### 🛡️ Systems, Cloud & Security
-![Monitoring](https://img.shields.io/badge/Monitoring-Real--Time-success?style=for-the-badge&logo=prometheus&logoColor=white)
-![WAF Configuration](https://img.shields.io/badge/WAF_Configuration-FF9900?style=for-the-badge&logo=fortinet&logoColor=white)
+### ⚙️ Backend, Databases & Cloud Ops
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![20i](https://img.shields.io/badge/20i-Cloud_Hosting-00AEEF?style=for-the-badge&logo=icloud&logoColor=white)
 ![Cloudways](https://img.shields.io/badge/Cloudways-2C303E?style=for-the-badge&logo=cloudways&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![SMTP Configuration](https://img.shields.io/badge/SMTP-Mail_Config-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+### 🛡️ Systems & Security (Infrastructure)
+![Monitoring](https://img.shields.io/badge/Monitoring-Real--Time-success?style=for-the-badge&logo=prometheus&logoColor=white)
+![WAF Configuration](https://img.shields.io/badge/WAF_Configuration-FF9900?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
@@ -35,13 +47,10 @@ Technical Support Specialist | Full-Stack Developer | Cybersecurity
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🌐 Networking & Infrastructure
+### 🌐 Networking & Data Science
 ![LAN/WAN](https://img.shields.io/badge/LAN%20WAN-Networking-FF6F61?style=for-the-badge&logo=wireshark&logoColor=white)
 ![IP Addressing](https://img.shields.io/badge/IP%20Addressing-TCP/IP-blue?style=for-the-badge)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-### 📊 Data & AI
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
