@@ -23,6 +23,7 @@ Technical Support Specialist | Full-Stack Developer | Cybersecurity
 ### 🛡️ Systems, Cloud & Security
 ![Monitoring](https://img.shields.io/badge/Monitoring-Real--Time-success?style=for-the-badge&logo=prometheus&logoColor=white)
 ![WAF Configuration](https://img.shields.io/badge/WAF_Configuration-FF9900?style=for-the-badge&logo=fortinet&logoColor=white)
+![20i](https://img.shields.io/badge/20i-Cloud_Hosting-00AEEF?style=for-the-badge&logo=icloud&logoColor=white)
 ![Cloudways](https://img.shields.io/badge/Cloudways-2C303E?style=for-the-badge&logo=cloudways&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
